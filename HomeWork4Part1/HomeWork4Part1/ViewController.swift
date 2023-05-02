@@ -20,8 +20,8 @@ class ViewController: UIViewController {
 
     
     @IBAction func Add(_ sender: Any) {
-        textOnDesplay.text! += "1XBET!!!"
         
+        textOnDesplay.text = "Hi"
     }
     
 }
